@@ -1,4 +1,4 @@
-# SquareCharger
+# Square Charger
 
 Square Charger determines the amount of money to charge a customer to ensure you get the amount owed after Square takes their fees. Square charges variable fees based largely on the presence of the customer's credit card and can be burdensome. This gems helps alleviate that pain.
 
@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+From the Interactive Ruby Shell (irb) run the following command:
+
+  require 'square-charger'
 
 ## Contributing
 
