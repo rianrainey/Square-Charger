@@ -20,7 +20,7 @@ Or install it yourself as:
 
 From the Interactive Ruby Shell (irb) run the following command:
 
-  require 'square-charger'
+    require 'square-charger'
 
 ## Contributing
 
